@@ -39,6 +39,8 @@ h1 {
 td {
   border: 1px solid #646cff;
   box-shadow: #646cff 0 0 0 1px;
+  cursor: pointer;
+  user-select: none;
   div {
     min-width: 150px;
     min-height: 100px;
